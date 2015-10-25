@@ -24,6 +24,18 @@ body {
   height: 350px;
 }
 
+.strand-timeline-img {
+  height: 80px;
+}
+
 .strand-modules-img {
-  height: 60px;
+  height: 75px;
+}
+
+.strand-modules-double-img {
+  height: 150px;
+}
+
+.strand-modules-treble-img {
+  height: 310px;
 }
