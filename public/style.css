@@ -11,3 +11,19 @@ body {
 .footer-social-links {
   text-align: center
 }
+
+.strand-right-img {
+  float: right;
+  margin: 1em;
+  height: 350px;
+}
+
+.strand-left-img {
+  float: left;
+  margin: 1em;
+  height: 350px;
+}
+
+.strand-modules-img {
+  height: 60px;
+}
